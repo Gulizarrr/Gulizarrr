@@ -27,11 +27,12 @@
   ---
 
 ### :woman_technologist: About Me : I am a Jr. Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Istanbul, Turkey.
-  - :telescope: I am working as a Service Contract Engineer and writing my master's thesis. Visit the link for the Academic Article of the product we created with the SVR model: (http://aiac.ae.metu.edu.tr/paper.php/AIAC-2021-103)
+  - 👩‍🔧 Working as a Service Contract Engineer for an Electronics Company 
+  - ✈️: Writing my master thesis in aviation with a focus on Data Science and Machine Learning . 🤟 Visit the link for the Academic Article of the product we created with the SVR model: (http://aiac.ae.metu.edu.tr/paper.php/AIAC-2021-103)
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I read tech articles and write on Medium.
+- :zap: In my free time, I read tech & greenlife articles and write on Medium.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gülizar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gulizardurmaz/)
   ---
