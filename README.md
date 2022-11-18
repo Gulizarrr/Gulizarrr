@@ -61,6 +61,6 @@
 
 ### :writing_hand: Blog Posts :
   <!-- BLOG-POST-LIST:START -->
-- [INVASIVE DUCTAL CARCINOMA &lpar;IDC&rpar; CLASSIFICATION USING ALEXNET, VGG16 AND RESNET50 NEURAL NETWORKS](https://gulizar-durmaz.medium.com/alexnet-vgg16-ve-resnet50-si%CC%87ni%CC%87r-a%C4%9Flari-kullanimi-i%CC%87le-i%CC%87nvazi%CC%87v-duktal-karsi%CC%87noma-idc-siniflandirm-2e0ecda7b572?source=rss-b2210dd67c29------2)
+- [Invasive Ductal Carcinoma &lpar;IDC&rpar; Classification Using ALEXNET, VGG16 And RESNET50 Neural Networks](https://gulizar-durmaz.medium.com/alexnet-vgg16-ve-resnet50-si%CC%87ni%CC%87r-a%C4%9Flari-kullanimi-i%CC%87le-i%CC%87nvazi%CC%87v-duktal-karsi%CC%87noma-idc-siniflandirm-2e0ecda7b572?source=rss-b2210dd67c29------2)
 - [Here Is My Example Story : You Can Start learning Python At Any Stage of Life](https://gulizar-durmaz.medium.com/here-is-my-example-story-you-can-start-learning-python-at-any-stage-of-life-7e0f134ed6d8?source=rss-b2210dd67c29------2)
 <!-- BLOG-POST-LIST:END -->
