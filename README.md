@@ -26,9 +26,9 @@
 </div>
   ---
 
-### :woman_technologist: About Me : I am a Jr. Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Copenhagen, Danmark.
-  - 👩‍🔧 I used to work as a Service Contract Engineer for an Electronics Company in Istanbul-Türkiye, currently I am an intern at DTU Space 🚀
-  - ✈️: Recently, I defended my master thesis which is written with a focus on Data Science and Machine Learning in Aviation. 🤟 Visit the link for the Academic Article of the product we created with the SVR model: (http://aiac.ae.metu.edu.tr/paper.php/AIAC-2021-103)
+### :woman_technologist: About Me : I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Istanbul, Türkiye.
+  - 👩‍🔧 I defended my master's thesis which is written with a focus on Data Science and Machine Learning in Aviation. ✈️ Visit the link for the Academic Article of the product we created with the SVR model: (http://aiac.ae.metu.edu.tr/paper.php/AIAC-2021-103)
+  - 🚀: Recently, I completed a project at the Technical University of Denmark, Space Department  🤟 You can find it in my profile 🤞
 
 - :seedling: Exploring Technical Content Writing.
 
