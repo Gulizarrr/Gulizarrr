@@ -26,13 +26,13 @@
 </div>
   ---
 
-### :woman_technologist: About Me : I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Istanbul, Türkiye.
-  - 👩‍🔧 I defended my master's thesis which is written with a focus on Data Science and Machine Learning in Aviation. ✈️ Visit the link for the Academic Article of the product we created with the SVR model: (http://aiac.ae.metu.edu.tr/paper.php/AIAC-2021-103)
+### :woman_technologist: About Me : I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sankt Antoni, Fribourg, Switzerland.
+  - 👩‍🔧 I defended my master's thesis, which focuses on Data Science and Machine Learning in Aviation. ✈️ Visit the link for the Academic Article on the product we created with the SVR model: (http://aiac.ae.metu.edu.tr/paper.php/AIAC-2021-103)
   - 🚀: Recently, I completed a project at the Technical University of Denmark, Space Department  🤟 You can find it in my profile 🤞
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I read tech & greenlife articles and write on Medium.
+- :zap: In my free time, I read tech & green life articles and write on Medium.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gülizar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gulizardurmaz/)
   ---
