@@ -26,7 +26,7 @@
 </div>
   ---
 
-### :woman_technologist: About Me : I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sankt Antoni, Fribourg, Switzerland.
+### :woman_technologist: About Me : I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
   - 👩‍🔧 I defended my master's thesis, which focuses on Data Science and Machine Learning in Aviation. ✈️ Visit the link for the Academic Article on the product we created with the SVR model: (http://aiac.ae.metu.edu.tr/paper.php/AIAC-2021-103)
   - 🚀: Recently, I completed a project at the Technical University of Denmark, Space Department  🤟 You can find it in my profile 🤞
 
